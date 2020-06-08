@@ -12,7 +12,7 @@ logo = """\033[1;94m█████████
 \033[1;94m ██ ██\x1b[00m"""
 
 banner = """
-\x1b[34mHack Friendlist Facebook
+\x1b[34mHack akun fb
 \x1b[00mAutomatic cracking password with Bruteforce
 \x1b[00mPlease login with your account \x1b[91m!
 """
